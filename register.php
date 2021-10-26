@@ -11,6 +11,7 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
 </head>
 <body>
+    <?php ?>
     <div class="container">
         <h2 class="text-white text-center mb-4">Register</h2>
         <div class="card col-lg-5 col-md-6 col-12 mx-auto px-4 py-5">
